@@ -1,7 +1,7 @@
 --[[
 	Author: github@ccuser44/ALE111_boiPNG
 	Name: Fast nuke script
-	Description: This script allows you to create4 a nuclear explosion
+	Description: This script allows you to create a nuclear explosion
 	License: MIT
 ]]
 
